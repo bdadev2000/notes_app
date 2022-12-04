@@ -18,5 +18,7 @@ Room
 - View Model: Xử lý các logic(thêm, sửa, xóa, cập nhật dữ liệu).
 - Adapter: Kết nối dữ liệu với các view item của một RecyclerView.
 
-#Demo 
+# Demo 
+
+
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/85747052/205519507-8a733a68-54f2-4553-bc3c-2d500d660a32.gif)
