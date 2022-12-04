@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NOTE_APP</string>
+    <string name="create_a_new_note">Creat a new note</string>
+    <string name="title">Title</string>
+    <string name="note">Note</string>
+    <string name="Delete">Delete</string>
+</resources>
