@@ -1,7 +1,4 @@
-# notes_app
-Note App
-
-## Getting Started
+#Note App
 
 # Ngôn ngữ:
 Kotlin
